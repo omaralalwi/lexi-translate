@@ -46,6 +46,14 @@ return [
     */
     'cache_ttl' => 6, // Cache translations for 6 hours
 
+
+    'chatgpt' => [
+        'api_key' => env('CHATGPT_API_KEY'),
+        'model' => 'gpt-3.5-turbo',
+        'default_language' => 'en',
+        'max_tokens' => 1000,
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Supported Locales

@@ -21,6 +21,7 @@ Its lightweight design and flexibility make it an excellent choice for applicati
   - [More Examples](#more-examples)
   - [Helper Functions](#helper-functions)
 - [Testing](#testing)
+- [Alternative Solutions](#alternative-solutions)
 - [Changelog](#changelog)
 - [Contributing](#contributing)
 - [Features](#features)
@@ -181,6 +182,22 @@ To run the tests for this package:
 ```bash
 composer test
 ```
+
+---
+
+## Alternative Solutions
+
+If Lexi Translate doesn't fully meet your application's needs, you may also consider these popular alternatives:
+
+- **[Spatie Laravel Translatable](https://github.com/spatie/laravel-translatable):**  
+  Stores translations in a JSON column within the main table. Best suited for smaller applications with simple multilingual requirements.
+
+- **[Astrotomic Laravel Translatable](https://github.com/Astrotomic/laravel-translatable):**  
+  Similar to Spatie's package but includes additional features like better locale handling. It’s an excellent choice for lightweight multilingual support.
+
+Both packages offer robust solutions for managing translations but rely on JSON-based storage. If you require scalable, relational storage with built-in caching and dynamic morph relationships, **Lexi Translate** is the better choice for large-scale or performance-critical applications.
+
+--- 
 
 ## Changelog
 
