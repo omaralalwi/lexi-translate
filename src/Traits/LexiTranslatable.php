@@ -46,7 +46,7 @@ trait LexiTranslatable
      *  even if service model does not has name and description attributes .
      *
      */
-    public function translate(string $column, ?string $locale = null): string
+    public function translate(string $column, ?string $locale = null): ?string
     {
         $locale = $this->getValidatedLocale($locale);
         $originalText = '';
