@@ -245,7 +245,7 @@ The `ApiLocalized` middleware is designed for API requests. It sets the applicat
 
 ```php
  // Other middlewares...
-'localized.api' => \Omaralalwi\LexiTranslate\Middleware\WebLocalized::class,
+'localized.api' => \Omaralalwi\LexiTranslate\Middleware\ApiLocalized::class,
 ```
 
 #### Applying the Middleware to API Routes
