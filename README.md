@@ -331,14 +331,32 @@ Thanks to these wonderful people for contributing to this project! 💖
         <sub><b>Omar Al Alwi</b></sub>
       </a>
       <br />
-      🏆 Owner
+      🏆 Creator
     </td>
     <!-- Contributors -->
     <td align="center">
       <a href="https://github.com/HamzaHassanM">
-        <img src="https://avatars.githubusercontent.com/u/62448602?v=4" width="100px;" alt="Contributor Name"/>
+        <img src="https://avatars.githubusercontent.com/u/62448602?v=4" width="100px;" alt="Hamza Hasan"/>
         <br />
         <sub><b>Hamza Hasan</b></sub>
+      </a>
+      <br />
+      💻 Contributor
+    </td>
+    <td align="center">
+      <a href="[https://github.com/HamzaHassanM](https://github.com/DBawazir2002)">
+        <img src="https://avatars.githubusercontent.com/u/62448602?v=4" width="100px;" alt="Dawood Bawazir"/>
+        <br />
+        <sub><b>Dawood Bawazir</b></sub>
+      </a>
+      <br />
+      💻 Contributor
+    </td>
+    <td align="center">
+      <a href="https://github.com/KeithTurkowski">
+        <img src="https://avatars.githubusercontent.com/u/1822160?v=4" width="100px;" alt="KeithTurkowski"/>
+        <br />
+        <sub><b>KeithTurkowski</b></sub>
       </a>
       <br />
       💻 Contributor
