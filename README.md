@@ -344,8 +344,8 @@ Thanks to these wonderful people for contributing to this project! 💖
       💻 Contributor
     </td>
     <td align="center">
-      <a href="[https://github.com/HamzaHassanM](https://github.com/DBawazir2002)">
-        <img src="https://avatars.githubusercontent.com/u/62448602?v=4" width="100px;" alt="Dawood Bawazir"/>
+      <a href="https://github.com/DBawazir2002">
+        <img src="https://avatars.githubusercontent.com/u/110201810?v=4" width="100px;" alt="Dawood Bawazir"/>
         <br />
         <sub><b>Dawood Bawazir</b></sub>
       </a>
