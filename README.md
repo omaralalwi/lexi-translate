@@ -29,7 +29,6 @@ Its lightweight design and flexibility make it an excellent choice for applicati
 - [Features](#features)
 - [Security](#security)
 - [License](#license)
-- [Contributors](#contributors)
 - [Helpful Packages](#helpful-open-source-packages)
 
 ## Installation
@@ -301,12 +300,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on recent updates.
 ## Contributing
 
 We welcome contributions! If you'd like to contribute, please check the [CONTRIBUTING](CONTRIBUTING.md) guide for details.
-
-### Contributors
-
-This project exists thanks to all the people who contribute.
-
-- [Omar alalwi](https://github.com/omaralalwi)
 
 ## Security
 
