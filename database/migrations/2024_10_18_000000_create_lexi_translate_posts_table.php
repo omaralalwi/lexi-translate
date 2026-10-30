@@ -7,9 +7,7 @@ use Illuminate\Support\Facades\Schema;
 return new class extends Migration {
     public function up()
     {
-        /*
-         * this table just for package's tests purposes .
-         */
+        // Test-only table used by the package's own test suite.
         Schema::create('lexi_posts', function (Blueprint $table) {
             $table->id();
             $table->string('title');
@@ -20,6 +18,6 @@ return new class extends Migration {
 
     public function down()
     {
-        Schema::dropIfExists('test_translations');
+        Schema::dropIfExists('lexi_posts');
     }
 };
